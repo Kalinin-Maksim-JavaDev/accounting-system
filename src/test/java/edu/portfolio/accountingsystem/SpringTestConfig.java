@@ -11,4 +11,9 @@ import org.springframework.web.client.RestTemplate;
 @ComponentScan("edu.portfolio.accountingsystem")
 public class SpringTestConfig {
 
+    @Bean
+    public RestTemplate restTemplate() {
+        return new RestTemplate();
+    }
+
 }

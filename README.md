@@ -9,7 +9,7 @@
   - Postgres
   - H2
 
-- Complicated managment
+- Complicated management
   - Maven modules
   - Java modules - Project Jigsaw
   - Lambok

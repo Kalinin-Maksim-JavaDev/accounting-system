@@ -13,6 +13,7 @@
   - Maven modules
   - Java modules - Project Jigsaw
   - Lambok
+  - Profiles
 
 - Test
   - Mockito
